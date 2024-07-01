@@ -2,7 +2,7 @@
   <img src="./line2.gif" width="50%"/>
 </div>
 
-<img src="./header.mp4" />
+<img src="./header.gif" />
 
 <br>
 <div align="center">
