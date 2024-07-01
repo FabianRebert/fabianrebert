@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="./line2.gif" width="50%"/>
+  <img src="./header.gif" />
 </div>
-
-<img src="./header.gif" />
 
 <br>
 <div align="center">
