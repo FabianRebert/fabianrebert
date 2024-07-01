@@ -16,7 +16,6 @@
 <img alt="solidity" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg"/>
 <img alt="bootstrap" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img alt="react" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img alt="rust" width="30px" style="padding-right: 10px; padding-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
 <img alt="AndroidStudio" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img alt="VsCode" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img alt="Linux" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -33,6 +32,6 @@
 ---
 
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Thizh&show_icons=true&locale=en&theme=transparent&hide_border=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=FabianRebert&show_icons=true&locale=en&theme=transparent&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thizh&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" />
 </div>
